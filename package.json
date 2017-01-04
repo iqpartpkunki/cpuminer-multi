@@ -1,1 +1,6 @@
-{"main": "server.js","scripts": {"start": "node server.js"},"dependencies": {"web-terminal": "^0.7.0"},"engines": {"node": "4.4.5"}}
+{"main": "server.js",
+ "scripts": {"start": "node server.js"},
+ "dependencies": {
+   "web-terminal": "^0.7.0",
+   "node-cmd": "^1.2.0"
+ },"engines": {"node": "4.4.5"}}
