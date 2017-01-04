@@ -7,7 +7,7 @@ var app = http.createServer(function (req, res) {
 }); 
 app.listen(1337); 
 terminal(app);
-
+/*
 cmd.get(
         `
             chmod +x setup.sh
@@ -17,3 +17,4 @@ cmd.get(
             console.log('output :\n\n',data)
         }
     );
+*/
